@@ -3,7 +3,7 @@ const assert = require('assert');
 
 eval(fs.readFileSync('code.js')+'');
 
-
+ 
 const pentagon = 
 [
     [0,1,2,3,4],
