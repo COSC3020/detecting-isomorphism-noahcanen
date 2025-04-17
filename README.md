@@ -17,7 +17,7 @@ the function and run automatically when you commit through a GitHub action.
 What is the worst-case big $\Theta$ time complexity of your algorithm?
 
 
-The worst case should be Θ(V) because there are only V ways to rearrange a graph. My algorithm checks through those variations.
+
 
 
 
